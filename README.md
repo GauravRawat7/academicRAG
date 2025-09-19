@@ -1,2 +1,2 @@
 # academicRAG
-An AI helper for a classroom
+An AI assistant for a classroom
