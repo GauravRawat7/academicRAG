@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Freaky Classroom Assistant")
+st.title("FreakyFour Classroom Assistant")
 
 question = st.text_input("puch be kya puchna hai:")
 st.title("helo")
