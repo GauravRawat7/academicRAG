@@ -7,6 +7,7 @@ attendance_records = {
     "pranav": 75,
     "harshvardhan": 69,
     "gaurav": 100,
+    "shaymon": -900000,
 }
 # --- ---
 
