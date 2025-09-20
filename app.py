@@ -5,7 +5,7 @@ import time
 attendance_records = {
     "Prathit": 95,
     "Pranav": 75,
-    "Harshvardhan": 69
+    "Harshvardhan": 69,
     "Gaurav": 100,
 }
 # --- ---
