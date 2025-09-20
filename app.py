@@ -3,14 +3,15 @@ import time
 
 # --- Hard-coded Data ---
 attendance_records = {
-    "Prathit": 95,
-    "Pranav": 75,
-    "Harshvardhan": 69,
+    "prathit": 95,
+    "pranav": 75,
+    "harshvardhan": 69,
+    "gaurav": 100,
 }
 # --- ---
 
 st.title("Attendance Record Query System")
-st.write("Ask for the attendance record of the student.")
+st.write("Ask for the attendance record of the student")
 
 # User input to ask the question
 user_query = st.text_input("Enter a name to check their attendance record:")
